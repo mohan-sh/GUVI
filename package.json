@@ -1,0 +1,12 @@
+{
+  "name": "guvi-project",
+  "version": "1.0.0",
+  "description": "This project implements a web application with a Register -> Login -> Profile flow using HTML, CSS, Bootstrap, JavaScript (jQuery + AJAX) for the frontend, PHP for the backend, MySQL for registration data, MongoDB for profile data, and Redis for session management.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
